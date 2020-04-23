@@ -1,0 +1,8 @@
+README.txt
+SendKeys.py
+_sendkeys.c
+setup.py
+SendKeys.egg-info/PKG-INFO
+SendKeys.egg-info/SOURCES.txt
+SendKeys.egg-info/dependency_links.txt
+SendKeys.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FishingScript/.idea/FishingScript.iml" filepath="$PROJECT_DIR$/../FishingScript/.idea/FishingScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestDemoAir/.idea/demoAir.iml" filepath="$PROJECT_DIR$/../TestDemoAir/.idea/demoAir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python-selenium.iml" filepath="$PROJECT_DIR$/.idea/python-selenium.iml" />
+    </modules>
+  </component>
+</project>
