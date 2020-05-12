@@ -28,8 +28,8 @@ time.sleep(3)
 
 # 登录
 driver.find_element_by_link_text("登录").click()
-driver.find_element_by_id("input1").send_keys("浪里小白龙qaq")
-driver.find_element_by_id("input2").send_keys("Zx8331102@")
+driver.find_element_by_id("input1").send_keys("xxx")
+driver.find_element_by_id("input2").send_keys("xxx")
 driver.find_element_by_id("signin").click()
 driver.implicitly_wait(30)
 
