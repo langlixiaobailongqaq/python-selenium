@@ -63,7 +63,7 @@ driver = webdriver.Chrome()
 # driver.maximize_window()
 # driver.implicitly_wait(30)  # 隐式等待
 # driver.find_element_by_id("LoginName").send_keys(u"浪里小白龙qaq")
-# driver.find_element_by_id("Password").send_keys(u"Zx8331102@")
+# driver.find_element_by_id("Password").send_keys(u"xx")
 # driver.find_element_by_id("submitBtn").click()
 # time.sleep(3)
 # print(driver.get_cookies())
@@ -81,7 +81,7 @@ driver.get(url)
 driver.maximize_window()
 driver.implicitly_wait(30)  # 隐式等待
 driver.find_element_by_id("LoginName").send_keys(u"浪里小白龙qaq")
-driver.find_element_by_id("Password").send_keys(u"Zx8331102@")
+driver.find_element_by_id("Password").send_keys(u"xx")
 driver.find_element_by_id("submitBtn").click()
 time.sleep(4)
 # 获取指定name的cookie
