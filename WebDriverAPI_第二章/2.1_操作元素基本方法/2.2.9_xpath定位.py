@@ -53,4 +53,8 @@ driver.find_element_by_xpath("//*[ends-with(@id,'kw_wrap')]").click()
 # # xpath支持正则表达式
 driver.find_element_by_xpath("//*[matchs(text(),'hao13')]").click()
 
+# selenium 4.0-新相对定位方式
+        # toLeftOf()：位于指定元素左侧的元素。 toRightOf()：位于指定元素右侧的元素。
+        # above()：相对于指定元素位于上方的元素。 below()：相对于指定元素位于下方的元素。 
+        # near()：元素距离指定元素最多50个像素。像素值可以修改。
 
